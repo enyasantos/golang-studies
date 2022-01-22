@@ -1,2 +1,2 @@
-# golang-studies
-Repository is only for study of the GoLang programming language.
+# GoLang Estudos
+Repositório destinado para estudos da linguagem de programação [GoLang](https://go.dev/)
